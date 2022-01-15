@@ -5,7 +5,7 @@ const FactureFranchisesModel = require('../../models/facture/FactureFranchisesMo
 const InfoSelesModel = require('../../models/info/InfoSelesModel')
 const PointReportsModel = require('../../models/users/PointReportsModel')
 const UserPointsModel = require('../../models/users/UserPointsModel')
-
+xxx
 const { Op } = require('sequelize')
 const { codeRed, deCode, linkBelongsTo, updateOrCreate } = require('../../utils')
 const UserSponsorsModel = require('../../models/users/UserSponsorsModel')
